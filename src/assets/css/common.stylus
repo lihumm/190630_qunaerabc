@@ -1,0 +1,8 @@
+$bgColor=#00bcd4;
+$fontColor=#212121;
+$borderBottom=#e7e7e6;
+ellipsis(){
+    overflow hidden
+    white-space nowrap
+    text-overflow ellipsis
+}
